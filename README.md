@@ -1,0 +1,3 @@
+# vishal-savoys
+Fifty-two percent of restaurant owners cite high operating and food costs as challenges to their bottom line, according to Toast's Restaurant Success report.In response, restaurateurs use point of sale (POS) systems to track inventory, process payments, and analyze sales. Moreover, with robust software, restaurant owners can efficiently manage employees, accept online orders, and otherwise try to squeeze every bit of profit from each operating dollar. 
+To uncover the best of the best, we researched more than two dozen top POS systems for restaurants. To narrow down our decision, we compared plans, features, and hardware options. Plus, we looked for solutions with extra services and plenty of customer support. Here are our top picks.
