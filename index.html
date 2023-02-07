@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <title>Savoy's</title>
+  <link rel="stylesheet" href="public/css/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="public/css/style.css">
+  <link rel="shortcut icon" href="Images/logo.png" type="image/x-icon">
+
+</head>
+
+<body>
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="background-color: #FFC529;">
+    <div class="logo">
+      <img src="images/logo.png" alt="" width="105px" height="105px">
+
+    </div>
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">
+        <p>Savoy's</p>
+      </a>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+      </form>
+    </div>
+    </div>
+  </nav>
+  <div class="container ">
+    <div class="row">
+      <div class="col-md-12 d-flex justify-content-center mt-md-5">
+        <form method="post" action="order.html">
+          <div class="form-group pd-1">
+            <label for="exampleInputName">Table number</label>
+            <input type="name" class="form-control" id="exampleInputName" aria-describedby="NameHelp"
+              placeholder="Enter tablet number">
+            <small id="NameHelp" class="form-text text-muted">Dont keep the tablet on another tablet .</small>
+          </div>
+          <div class="form-group pd-1">
+            <label for="exampleInputPassword1">Password</label>
+            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+          </div>
+
+
+           <a href="order.html" class="btn-lg">submit</a>
+        </form>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+  
+  <script src="database.js"></script>
+  <script src="public/js/bootstrap.min.js"></script>
+  <script src="public/js/jquery.js"></script>
+  <script src="public/js/app.js"></script>
+  <script src="https://kit.fontawesome.com/8b23cb49a6.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
